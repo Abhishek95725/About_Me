@@ -7,5 +7,5 @@ My first repository
 * I did my Graduation in BCA from BRABU Muzaffarpur, Bihar.
 * I did my Intermediate and Schooling both from BSEB Patna.
 * My hobbies are playing cricket and listening music.
-That's all about me
+That's all about me,
 Thank You 
