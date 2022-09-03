@@ -1,4 +1,3 @@
-# hello-world
 My first repository
 🙂 About Myself 
 * My name is Abhishek Thakur.
